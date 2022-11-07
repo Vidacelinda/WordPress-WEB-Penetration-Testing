@@ -24,13 +24,13 @@ Time spent: **X** hours spent in total
 ### 2. (Required) Vulnerability Name or ID
 
 - [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
+  - Vulnerability types: Pupload Same Origin Method Execution (SOME
+  - Tested in version:4.2
+  - Fixed in version: 4.2.8
 - [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
+- [ ] Steps to recreate: you can take advantage of the comment sections in word press and post a malitious link using javascript.
 - [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
+  - [Link 1](https://wordpress.org/news/2016/05/wordpress-4-5-2/)
 
 ### 3. (Required) Vulnerability Name or ID
 
