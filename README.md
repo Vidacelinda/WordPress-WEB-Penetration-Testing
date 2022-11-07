@@ -23,13 +23,14 @@ Time spent: **X** hours spent in total
 
 ### 2. (Required) Vulnerability Name or ID
 
-- [ ] Summary: 
+- [x] Summary: 
   - Vulnerability types: Pupload Same Origin Method Execution (SOME
   - Tested in version:4.2
   - Fixed in version: 4.2.8
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: you can take advantage of the comment sections in word press and post a malitious link using javascript.What is show is me writing a java scrip on a comment sectioin which will make a button. once the button has been pressed then it will pop an alert however it can also be a link aswell but for this example i left it as a alert.
-- [ ] Affected source code:
+- [x] GIF Walkthrough: ![ezgif com-gif-maker-7](https://user-images.githubusercontent.com/87499194/200424551-5a4f288b-0fee-432c-8a20-10bf1bc71511.gif)
+
+- [x] Steps to recreate: you can take advantage of the comment sections in word press and post a malitious link using javascript.What is show is me writing a java scrip on a comment sectioin which will make a button. once the button has been pressed then it will pop an alert however it can also be a link aswell but for this example i left it as a alert.
+- [x] Affected source code:
   - [Link 1](https://wordpress.org/news/2016/05/wordpress-4-5-2/)
 
 ### 3. (Required) Vulnerability Name or ID
