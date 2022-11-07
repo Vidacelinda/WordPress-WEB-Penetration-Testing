@@ -28,7 +28,7 @@ Time spent: **X** hours spent in total
   - Tested in version:4.2
   - Fixed in version: 4.2.8
 - [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: you can take advantage of the comment sections in word press and post a malitious link using javascript.
+- [ ] Steps to recreate: you can take advantage of the comment sections in word press and post a malitious link using javascript.What is show is me writing a java scrip on a comment sectioin which will make a button. once the button has been pressed then it will pop an alert however it can also be a link aswell but for this example i left it as a alert.
 - [ ] Affected source code:
   - [Link 1](https://wordpress.org/news/2016/05/wordpress-4-5-2/)
 
