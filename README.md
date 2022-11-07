@@ -14,11 +14,11 @@ Time spent: **X** hours spent in total
 - [x] Summary: 
   - Vulnerability types: this is a cross site request forgie I made though a from from my website ( https://vidacelinda.github.io ) which is hosted on my github. My website just make a comment to the word press 
   - Tested in version: 4.2
-  - Fixed in version: latest
-- [x] GIF Walkthrough: first It shows my github along with the form on my website. second, I go to my website which then automaticly directs me to word press and posts the comment I wrote in the form which was "2.cross site request forgie – I made a commnet done by using a form(website) hosted on my git hub"
+  - Fixed in version: 4.2.34
+- [x] GIF Walkthrough:first It shows my github along with the form on my website. second, I go to my website which then automaticly directs me to word press and posts the comment I wrote in the form which was "2.cross site request forgie – I made a commnet done by using a form(website) hosted on my git hub"
   ![ezgif com-gif-maker-6](https://user-images.githubusercontent.com/87499194/200404554-852fd2bf-b57a-4d03-b239-213c43d2d564.gif)
-- [ ] Steps to recreate: 
-- [ ] Affected source code:
+- [x] Steps to recreate: First, I made a form on my github with a form because i will use github to host my website. second, I go to my website which then automaticly directs me to word press and posts the comment I wrote in the form which was "2.cross site request forgie – I made a commnet done by using a form(website) hosted on my git hub"
+- [x] Affected source code: https://github.com/Vidacelinda/Vidacelinda.github.io
 
 ### 2. (Required) Vulnerability Name or ID
 
