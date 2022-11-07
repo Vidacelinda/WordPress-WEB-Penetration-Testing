@@ -35,13 +35,13 @@ Time spent: **X** hours spent in total
 
 ### 3. (Required) Vulnerability Name or ID
 
-- [ ] Summary: 
+- [x] Summary: 
   - Vulnerability types:Pupload Same Origin Method Execution (SOME
   - Tested in version:4.2
   - Fixed in version:4.2.8
-- [ ] GIF Walkthrough: ![ezgif com-gif-maker-8](https://user-images.githubusercontent.com/87499194/200427815-9d19a29c-e522-4465-89d7-3abe026c30d5.gif)
-- [ ] Steps to recreate: I made a post using CSS that has an alert that pops up on the top of the titile page.Note this does not okly have to be an alert but it could also be a link.
-- [ ] Affected source code:
+- [x] GIF Walkthrough: ![ezgif com-gif-maker-8](https://user-images.githubusercontent.com/87499194/200427815-9d19a29c-e522-4465-89d7-3abe026c30d5.gif)
+- [x] Steps to recreate: I made a post using CSS that has an alert that pops up on the top of the titile page.Note this does not okly have to be an alert but it could also be a link.
+- [x] Affected source code:
   - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 
 ### 4. (Optional) Vulnerability Name or ID
