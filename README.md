@@ -3,7 +3,7 @@ vulnerabilities of word press version 4.2
 
 # Project 7 - WordPress Pen Testing
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
