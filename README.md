@@ -1,4 +1,4 @@
-# cyber-sercurity-u-7
+# WordPress cyber-sercurity pen testing
 vulnerabilities of word press version 4.2
 
 # Project 7 - WordPress Pen Testing
