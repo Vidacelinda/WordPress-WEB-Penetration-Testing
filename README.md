@@ -1,7 +1,7 @@
-# WordPress cyber-sercurity pen testing
+# cyber-sercurity pen testing
 vulnerabilities of word press version 4.2
 
-# Project 7 - WordPress Pen Testing
+# Project  - WordPress Pen Testing
 
 Time spent: **12** hours spent in total
 
