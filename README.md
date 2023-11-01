@@ -9,7 +9,7 @@ Time spent: **12** hours spent in total
 
 ## Pen Testing Report
 
-### 1. (Required) Vulnerability Name or ID
+### 1.  Vulnerability XSS
 
 - [x] Summary: 
   - Vulnerability types: this is a cross site request forgie I made though a from from my website ( https://vidacelinda.github.io ) which is hosted on my github. My website just make a comment to the word press 
@@ -21,7 +21,7 @@ Time spent: **12** hours spent in total
 - [x] Affected source code: 
   - [Link 1](https://wordpress.org/news/2022/10/wordpress-6-0-3-security-release/)
 
-### 2. (Required) Vulnerability Name or ID
+### 2. XSS
 
 - [x] Summary: 
   - Vulnerability types: Pupload Same Origin Method Execution (SOME
@@ -33,7 +33,7 @@ Time spent: **12** hours spent in total
 - [x] Affected source code:
   - [Link 1](https://wordpress.org/news/2016/05/wordpress-4-5-2/)
 
-### 3. (Required) Vulnerability Name or ID
+### 3.  Vulnerability
 
 - [x] Summary: 
   - Vulnerability types:Pupload Same Origin Method Execution (SOME
